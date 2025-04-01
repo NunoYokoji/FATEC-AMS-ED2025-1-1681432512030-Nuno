@@ -1,10 +1,10 @@
 /*----------------------------------------------------------------------------------*/
-/*   FATEC-São Caetano do Sul                 Data Structures                     */
-/*                         Activity ID: S1-B1-4                                    */
-/*             Objective: <<  Stack Manipulation - HP12c Implementation >>         */
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         ID da Atividade: S1-B1-4                                 */
+/*             Objetivo: <<  Manipulação de pilhas - Implementação da HP12C >>      */
 /*                                                                                  */
-/*                                  Author: Carolina Pichelli Souza                 */
-/*                                                                   Date: 30/03/2025*/
+/*                                  Autor: Nuno Kasuo Tronco Yokoji                 */
+/*                                                                  Data: 01/04/2025*/
 /*----------------------------------------------------------------------------------*/
 
 #include <stdio.h>
